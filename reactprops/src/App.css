@@ -1,0 +1,8 @@
+.App {
+    display: flex;
+    width: 80%;
+    margin: 50px auto;
+    padding: 3%;
+    background-color: #2196f354;
+    border-radius: 20px;
+}
